@@ -5,8 +5,8 @@ This repository contains 2 files:
 - MSDSTextClassification_KTrain_distilbert.ipynb
 
 **If you would like to see the Google Colab notbooks, please use these links:**
-- BERT: [link](https://drive.google.com/file/d/1mnzxZQqxiCAY6EWVAdjYyRdffBraG7rM/view?usp=sharing) (please click open with google colab)
-- DISTILBERT: [link](https://drive.google.com/file/d/1f6o8o6afKyv3Ac36gRj_2eXPLrwl5KRy/view?usp=sharing) (please click open with google colab)
+- BERT: [link](https://drive.google.com/file/d/1mnzxZQqxiCAY6EWVAdjYyRdffBraG7rM/view?usp=sharing) (please click open with google colab after)
+- DISTILBERT: [link](https://drive.google.com/file/d/1f6o8o6afKyv3Ac36gRj_2eXPLrwl5KRy/view?usp=sharing) (please click open with google colab after)
 
 Both notebooks classify the health and wellness news articles using either bert or distilbert classification models.
 
